@@ -1,3 +1,5 @@
+using System;
+
 public class Logger
 {
     private static Logger _instance; // Private static variable to hold the single instance
